@@ -1,0 +1,14 @@
+.boxx{
+    height: 140px;
+    width: 100%;
+    background-color: gray;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.formstyle{
+ width: 40%;
+ margin: 50px auto;
+}
+
